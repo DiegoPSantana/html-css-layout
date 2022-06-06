@@ -18,3 +18,13 @@ Layout Liquida
 <h1 align="center">
 <img src="img/liquida.gif"
 </h1>
+
+
+<h2 align="center">
+Imagem Liquida
+</h2>
+
+<h1 align="center">
+<img src="img/imagem-liquida.gif"
+</h1>
+
