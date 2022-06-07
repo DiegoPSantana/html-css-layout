@@ -5,9 +5,9 @@ body{
 
 
 #container{
-    width: 85%; /* Se caso for fixo 720px*/
+    width: 960px; /* Se caso for fixo 720px - Em porcentagem 85%*/
     margin: 0 auto;
-    background: #fff;
+    background: #fff url(../img/coluna.png)repeat-y left top;
     min-width: 720px;
     max-width: 1280px;
 }
@@ -62,7 +62,7 @@ img.img-noticia{
 #navegacao{
     width: 23%; /* 180px -> 25%*/
     float: left;
-    background: #d1d1d1;
+    /*background: #d1d1d1;*/
     padding-top: 20px;
     padding-bottom: 20px;
 }
