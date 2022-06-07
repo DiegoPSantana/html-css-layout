@@ -28,3 +28,12 @@ Imagem Liquida
 <img src="img/imagem-liquida.gif"
 </h1>
 
+<br>
+<h2 align="center">
+Coluna Falsa
+</h2>
+
+<h1 align="center">
+<img src="img/coluna-falsa.png"
+</h1>
+
